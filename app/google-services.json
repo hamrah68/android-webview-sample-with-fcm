@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "948202801241",
+    "project_id": "beta-webview-offch",
+    "storage_bucket": "beta-webview-offch.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948202801241:android:455c9a804d81cc256dc948",
+        "android_client_info": {
+          "package_name": "beta.offch.betaoffchwebviewfcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948202801241-sjtg9em0qp2pgdt1tl8jccjn76t3mkhf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH9L0A9SE5g18CA-fWmRqSW2SMsUqSGMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948202801241-sjtg9em0qp2pgdt1tl8jccjn76t3mkhf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

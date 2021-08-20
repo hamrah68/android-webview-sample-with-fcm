@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Beta Offch Webview FCM</string>
+    <string name="default_notification_channel_id">Default Chanel id</string>
+    <string name="fcm_message">Fcm Message</string>
+</resources>
